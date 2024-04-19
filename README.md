@@ -32,6 +32,6 @@ The top 50 common keywords and their frequency from previous years:
 
 
 ## Acknowledgment
-Based on the following two repositories:
+Based on the following repository:
 1. https://github.com/fedebotu/ICLR2023-OpenReviewData
 
