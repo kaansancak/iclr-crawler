@@ -7,6 +7,12 @@
 
 - Use `craw_and_plot.ipyb`.
 
++ **Keywords Cloud**
+
+<p align="center">
+    <img src="sources/wordcloud.png" width="720"/>
+</p>
+
 + **Keywords Frequency**
 The top 50 common keywords and their frequency:
 
@@ -22,13 +28,6 @@ The top 50 common keywords and their frequency from previous years:
 
 <p align="center">
     <img src="sources/top50_keywords_2022.png" width="720"/>
-</p>
-
-
-+ **Keywords Cloud**
-
-<p align="center">
-    <img src="sources/wordcloud.png" width="720"/>
 </p>
 
 
