@@ -11,8 +11,19 @@
 The top 50 common keywords and their frequency:
 
 <p align="center">
-    <img src="sources/top50_keywords.png" width="720"/>
+    <img src="sources/top50_keywords_2024.png" width="720"/>
 </p>
+
+The top 50 common keywords and their frequency from previous years:
+
+<p align="center">
+    <img src="sources/top50_keywords_2023.png" width="720"/>
+</p>
+
+<p align="center">
+    <img src="sources/top50_keywords_2022.png" width="720"/>
+</p>
+
 
 + **Keywords Cloud**
 
